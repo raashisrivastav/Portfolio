@@ -13,9 +13,15 @@ export const workExperience = [
     position: "Senior Digital Marketer",
     period: "May 2023 - Present",
     achievements: [
-      "Led high-converting B2B lead generation campaigns across Meta, LinkedIn, and Google Ads, optimizing a ₹1 Cr annual ad spend to consistently generate qualified leads and achieve 2-3 enterprise conversions per month.",
-      "Led end-to-end product marketing initiatives from pitch decks and website creation to email and content marketing boosting conversion rates and user engagement across multiple SaaS launches.",
-      "Managed cross-functional teams (SEO, design, dev) to execute growth strategies, resulting in 50%+ organic traffic growth across websites and social media."
+      "Managed high-budget PPC campaigns across Meta Ads, LinkedIn and Google Ads (Display & Video), optimizing a ₹1 Crore annual ad spend, achieving a 4.5x ROAS and 2-3 high value B2B conversions per month",
+      "Spearheaded social media growth strategies on LinkedIn, Instagram, and Facebook, leading to a 55% boost in follower growth, and a 20% improvement in click-through rate (CTR)",
+      "Utilized Google Analytics 4, Google Tag Manager, and heatmap tracking tools to extract behavioral insights, refine audience segmentation, and improve conversion rates",
+      "Developed and executed email marketing campaigns using HubSpot and Yet Another Mail Merge (YAMM), implementing A/B testing and automation workflows that enhanced open rates by 35%, CTR by 20%, and improved overall lead conversion rates",
+      "Led a team of SEO executives, implementing advanced on-page SEO (schema markup, Core Web Vitals optimization) and off-page SEO (high-authority backlink building), resulting in a 50% increase in organic traffic.",
+      "Led the creation of websites from the ground up, collaborating with UI/UX designers and the development team. Oversaw wireframe creation, layout design, and full website content and deployment.",
+      "Crafted content marketing strategies for various services, optimizing website content with LSI keywords",
+      "Managed and optimized B2B lead generation efforts on Upwork, improving proposal conversion rates and increasing profile visibility by 30% through strategic keyword placement and performance analysis",
+      "Represented the company at NAASCOM Web Summits and NVIDIA Summits, leveraging networking opportunities to stay ahead of industry trends and establish high-value partnerships."
     ],
   },
   {
@@ -126,11 +132,9 @@ export const projects = [
     title: "Soft Suave Technologies",
     github: "",
     description: [
-      "Managed high-budget PPC campaigns across Meta Ads, LinkedIn and Google Ads (Display & Video), optimizing a ₹1 Crore annual ad spend, achieving a 4.5x ROAS and 2-3 high value B2B conversions per month",
-      "Spearheaded social media growth strategies on LinkedIn, Instagram, and Facebook, leading to a 55% boost in follower growth, and a 20% improvement in click-through rate (CTR)",
-      "Utilized Google Analytics 4, Google Tag Manager, and heatmap tracking tools to extract behavioral insights, refine audience segmentation, and improve conversion rates",
-      "Developed and executed email marketing campaigns using HubSpot and Yet Another Mail Merge (YAMM), implementing A/B testing and automation workflows that enhanced open rates by 35%, CTR by 20%, and improved overall lead conversion rates",
-      "Led a team of SEO executives, implementing advanced on-page SEO (schema markup, Core Web Vitals optimization) and off-page SEO (high-authority backlink building), resulting in a 50% increase in organic traffic.",
+      "Led high-converting B2B lead generation campaigns across Meta, LinkedIn, and Google Ads, optimizing a ₹1 Cr annual ad spend to consistently generate qualified leads and achieve 2-3 enterprise conversions per month.",
+      "Led end-to-end product marketing initiatives from pitch decks and website creation to email and content marketing boosting conversion rates and user engagement across multiple SaaS launches.",
+      "Managed cross-functional teams (SEO, design, dev) to execute growth strategies, resulting in 50%+ organic traffic growth across websites and social media."
     ],
   },
   {
