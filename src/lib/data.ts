@@ -130,7 +130,7 @@ export const skills = {
 export const projects = [
   {
     title: "Soft Suave Technologies",
-    github: "",
+    github: "https://www.softsuave.com/",
     description: [
       "Led high-converting B2B lead generation campaigns across Meta, LinkedIn, and Google Ads, optimizing a ₹1 Cr annual ad spend to consistently generate qualified leads and achieve 2-3 enterprise conversions per month.",
       "Led end-to-end product marketing initiatives from pitch decks and website creation to email and content marketing boosting conversion rates and user engagement across multiple SaaS launches.",
@@ -139,7 +139,7 @@ export const projects = [
   },
   {
     title: "Dotmite Technologies",
-    github: "",
+    github: "https://www.dotmite.com/",
     description: [
       "Built website content from scratch, ensuring SEO optimization and high conversion potential.",
       "Established social media pages, content calendars, and brand positioning, aligning with business objectives.",
@@ -149,14 +149,14 @@ export const projects = [
   },
   {
     title: "My Analytics School",
-    github: "",
+    github: "https://www.myanalyticsschool.com/",
     description: [
       "Managed social media presence & brand positioning for an IIT-alumni-led EdTech startup. Created SEO-driven website content and led Meta Ads campaigns for lead generation.",
     ],
   },
   {
     title: "Payslate",
-    github: "",
+    github: "https://play.google.com/store/apps/details?id=com.dotmite.payslate",
     description: [
       "Collaborated with designers and developers to enhance app wireframing and user experience.",
       "Provided content strategy and reviewed app functionality pre-launch, ensuring a seamless UX."
@@ -165,25 +165,25 @@ export const projects = [
   },
   {
     title: "Bustlespot",
-    github: "",
+    github: "https://bustlespot.gamzinn.com/login",
     description: [
       "Collaborated with designers and developers to enhance app wireframing and user experience.",
       "Provided content strategy and reviewed app functionality pre-launch, ensuring a seamless UX."
 
     ],
   },
-  {
-    title: "Traderz Arena",
-    github: "",
-    description: [
-      "Managed social media engagement and community growth for a stock market training institute.",
-      "Ran Meta Ad Campaigns for lead generation to increase conversion rates."
+  // {
+  //   title: "Traderz Arena",
+  //   github: "",
+  //   description: [
+  //     "Managed social media engagement and community growth for a stock market training institute.",
+  //     "Ran Meta Ad Campaigns for lead generation to increase conversion rates."
 
-    ],
-  },
+  //   ],
+  // },
   {
     title: "Affitu",
-    github: "",
+    github: "https://play.google.com/store/apps/details?id=com.dotmite.affitu",
     description: [
       "Defined the content architecture for the Affitu app, ensuring clear user communication.",
       "Worked closely with UI/UX designers to refine wireframes and enhance user journeys.",
